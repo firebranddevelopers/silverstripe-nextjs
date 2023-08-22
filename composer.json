@@ -17,12 +17,6 @@
     "silverstripe/silverstripe-headless": "dev-main",
     "symbiote/silverstripe-gridfieldextensions": "^4"
   },
-  "repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/firebranddevelopers/silverstripe-headless.git"
-    }
-  ],
   "autoload": {
     "psr-4": {
       "SilverStripe\\NextJS\\": "src/"
